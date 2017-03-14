@@ -18,10 +18,12 @@ $ omf install cdb
 ```
 
 
-## Usage
+## Typical usage
 
 ```fish
-$ cdb <path>
+~ $ more (or some other command) /some/path/file
+~ $ cdb <alt-up>
+/some/path $ 
 ```
 
 
